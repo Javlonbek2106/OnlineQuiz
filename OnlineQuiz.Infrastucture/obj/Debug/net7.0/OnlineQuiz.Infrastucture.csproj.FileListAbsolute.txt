@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Infrastucture.deps.json
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Infrastucture.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Infrastucture.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Application.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Domain.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Application.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\bin\Debug\net7.0\OnlineQuiz.Domain.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.AssemblyInfo.cs
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.csproj.CopyComplete
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\refint\OnlineQuiz.Infrastucture.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\OnlineQuiz.Infrastucture.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Infrastucture\obj\Debug\net7.0\ref\OnlineQuiz.Infrastucture.dll
