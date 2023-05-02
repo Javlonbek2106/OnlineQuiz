@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\bin\Debug\net7.0\OnlineQuiz.Domain.deps.json
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\bin\Debug\net7.0\OnlineQuiz.Domain.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\bin\Debug\net7.0\OnlineQuiz.Domain.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.AssemblyInfo.cs
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\refint\OnlineQuiz.Domain.dll
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\OnlineQuiz.Domain.pdb
+C:\Users\user\Desktop\OnlineQuiz\OnlineQuiz.Domain\obj\Debug\net7.0\ref\OnlineQuiz.Domain.dll

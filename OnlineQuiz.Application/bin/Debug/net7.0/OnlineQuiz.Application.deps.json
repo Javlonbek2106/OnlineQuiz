@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OnlineQuiz.Application/1.0.0": {
+        "dependencies": {
+          "OnlineQuiz.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OnlineQuiz.Application.dll": {}
+        }
+      },
+      "OnlineQuiz.Domain/1.0.0": {
+        "runtime": {
+          "OnlineQuiz.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineQuiz.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OnlineQuiz.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
